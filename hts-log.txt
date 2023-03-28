@@ -1,0 +1,12 @@
+HTTrack3.49-2 launched on Fri, 24 Mar 2023 10:05:54 at https://kalvin.netlify.app/index-slider.html
+(winhttrack https://kalvin.netlify.app/index-slider.html -O "/home/rahul/websites/resume" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:07:11	Error: 	"Not Found" (404) at link https://kalvin.netlify.app/css/owl.video.play.png (from https://kalvin.netlify.app/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 19 seconds : 79 links scanned, 77 files written (5227296 bytes overall) [4000280 bytes received at 50636 bytes/sec], 1898201 bytes transferred using HTTP compression in 40 files, ratio 33%
+(1 errors, 0 warnings, 0 messages)
